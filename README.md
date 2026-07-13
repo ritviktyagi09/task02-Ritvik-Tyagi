@@ -27,8 +27,9 @@ The objective of this project is to understand the fundamentals of Search Engine
 - Content Planning
 - Digital Marketing Fundamentals
 
-## Repository Contents
-- Ritvik_Tyagi_Project2_Keyword_Research.pdf
+## 📄 Project Document
+
+👉 [Ritvik_Tyagi_Project2_Keyword_Research.pdf](Ritvik_Tyagi_Project2_Keyword_Research.pdf)
 
 ## Learning Outcome
 Through this project, I gained practical knowledge of keyword research and learned how search intent influences content strategy. The project strengthened my understanding of creating SEO-focused content that aligns with user queries and improves search visibility.
